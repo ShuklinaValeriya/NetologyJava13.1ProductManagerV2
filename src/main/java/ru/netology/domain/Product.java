@@ -1,7 +1,5 @@
 package ru.netology.domain;
 
-import ru.netology.repository.ProductRepository;
-
 import java.util.Objects;
 
 public class Product {
